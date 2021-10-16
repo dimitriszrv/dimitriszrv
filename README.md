@@ -43,12 +43,6 @@ Undergraduate Student at Department of [Computer Science & Engineering](https://
 <a href="https://www.mysql.com/" target="_blank">
 <img src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white alt="MySQL" style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.java.com/en/" target="_blank">
-<img src=https://img.shields.io/badge/Java-%23E60023.svg?&style=for-the-badge&logo=java&logoColor=white alt="Java" style="margin-bottom: 5px;" />
-</a>
-<a href="https://en.wikipedia.org/wiki/Linux" target="_blank">
-<img src=https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black alt="Linux" style="margin-bottom: 5px;" />
-</a>
 
 ## Tools
 <a href="https://kdenlive.org/en/" target="_blank">
