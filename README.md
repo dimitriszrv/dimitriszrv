@@ -40,6 +40,10 @@ Undergraduate Student at Department of [Computer Science & Engineering](https://
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
 <img src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white alt="Html5" style="margin-bottom: 5px;" />
 </a>
+<a href="https://wordpress.org/" target="_blank">
+<img src=https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white alt="Wordpress" style="margin-bottom: 5px;" />
+ </a>
+  
 <a href="https://www.mysql.com/" target="_blank">
 <img src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white alt="MySQL" style="margin-bottom: 5px;" />
 </a>
