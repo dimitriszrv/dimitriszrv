@@ -11,7 +11,8 @@
 </a>
 
 ## About me 
-Graduate Student at Dept. of [Computer Science & Engineering](https://cs.uoi.gr) - University of Ioannina, Greece.
+**Graduate student at Dept. of [Computer Science & Engineering](https://cs.uoi.gr) - University of Ioannina, Greece.**
+
 <!--<div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="200" width="100" />
 </div>  -->
