@@ -16,7 +16,7 @@ Undergraduate Student at Department of [Computer Science & Engineering](https://
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="200" width="100" />
 </div>  -->
 <!--My name is Dimitrios Zervas, i am Undergraduate Student at Department of Computer Science & Engineering - University of Ioannina, Greece.-->
-  
+<!--
 ## Skills
 <a href="https://www.python.org/" target="_blank">
 <img src=https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen alt=Python style="margin-bottom: 5px;" />
@@ -81,7 +81,7 @@ I was gonna tell you a joke about UDP...
 
 Check back in an hour for new joke.. 
 
-<!--
+
 **dimitriszrv/dimitriszrv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
