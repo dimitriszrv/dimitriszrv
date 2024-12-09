@@ -1,17 +1,12 @@
 # Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dimitrios Zervas!
 
-<a href="mailto:zervasdm@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=Gmail style="margin-bottom: 5px;" />
-</a>
+
 <a href="https://www.linkedin.com/in/dimzrv/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
-<a href="https://github.com/dimitriszrv?tab=repositories" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 
 ## About me 
-**Graduate student at Dept. of [Computer Science & Engineering](https://cs.uoi.gr) - University of Ioannina, Greece.**
+Skilled software developer with expertise in automating processes through Python, including ETL workflows and task automation using Bash scripting. I have a strong background in SQL development, data warehousing, and reporting with tools such as Jaspersoft and Smartsheet. Additionally, I manage database and server maintenance, and lead project development using TYPO3 CMS (PHP, JavaScript, HTML, CSS). My experience also includes automation testing with Playwright, Jenkins, Git and TypeScript. Currently, I am advancing my skills in Django & Flask to further enhance web application development capabilities.
 
 <!--<div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="200" width="100" />
