@@ -6,7 +6,16 @@
 </a> 
 
 ## About me 
-Skilled data engineer / software developer with expertise in automating processes through Python, including ETL workflows and task automation using Bash scripting. I have a strong background in SQL development, data warehousing, and reporting with tools such as Jaspersoft and Smartsheet. Additionally, I manage database and server maintenance, and lead project development using TYPO3 CMS (PHP, JavaScript, HTML, CSS). My experience also includes automation testing with Playwright, Jenkins, Git and TypeScript. Currently, I am advancing my skills in Django & Flask to further enhance web application development capabilities.
+Skilled data engineer / software developer with expertise in automating processes through Python, including ETL workflows and task automation using Bash scripting. 
+I have a strong background in SQL development, data warehousing, and reporting with tools such as Jaspersoft and Smartsheet. 
+
+Additionally, I manage database and server maintenance, and project development using TYPO3 CMS (PHP, JavaScript, HTML, CSS).
+I am also proficient in automation testing, utilizing Playwright, Jenkins, Git, and TypeScript.
+
+To deepen my cloud and data engineering expertise, I completed the [Data Engineering using AWS Analytics Services](https://www.udemy.com/course/data-engineering-using-aws-analytics-services) course on Udemy, 
+which provided a solid foundation in AWS cloud services for data analytics.
+
+Currently, I am advancing my skills in Django & Flask to further enhance web application development capabilities.
 
 <!--<div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="200" width="100" />
