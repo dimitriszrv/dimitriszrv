@@ -9,6 +9,8 @@
 Detail-oriented Data Engineer with a passion for automating processes and building scalable solutions. I specialize in Python, creating efficient ETL workflows and automating tasks with Bash scripting. 
 My strong background in SQL development, data warehousing, and reporting with tools such as Jaspersoft and Smartsheet helps organizations unlock valuable insights.
 
+I am well-versed in Apache Spark for big data processing, and Apache Airflow for orchestrating complex data workflows. My expertise extends to Docker for containerizing applications, enabling seamless deployment across environments.
+
 My technical expertise also spans database and server maintenance, along with project development using TYPO3 CMS (PHP, JavaScript, HTML, CSS). 
 Additionally, I am well-versed in automation testing, utilizing tools like Playwright, Jenkins, Git, and TypeScript to ensure high-quality, reliable software delivery.
 
