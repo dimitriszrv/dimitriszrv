@@ -16,17 +16,17 @@ Core Skills:<br>
 • SQL development, Query optimization<br>
 • Django, Flask, API<br>
 
-Big Data & Workflow Orchestration:
+Big Data & Workflow Orchestration:<br>
 • Apache Spark, Apache Airflow<br>
 
-Data Infrastructure & Tools:
+Data Infrastructure & Tools:<br>
 • Docker, DDEV, Linux, Bash, SSH<br>
 • AWS Data Analytics Services<br>
 
-CI/CD & Automation:
+CI/CD & Automation:<br>
 • Git, Jenkins, Playwright<br>
 
-Agile Methodologies:
+Agile Methodologies:<br>
 • Waterfall, Scrum, Kanban<br>
 
 <!--<div align="center">
