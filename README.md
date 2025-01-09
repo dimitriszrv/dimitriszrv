@@ -11,23 +11,23 @@ passionate about automating processes and building scalable solutions.
 Specializing in ETL workflows, database management, query optimization, 
 data warehousing, and reporting to help organizations unlock valuable insights.
 
-Core Skills:
-• Python, ETL Scripting, JavaScript, Typescript
-• SQL development, Query optimization
-• Django, Flask, API
+Core Skills:<br>
+• Python, ETL Scripting, JavaScript, Typescript<br>
+• SQL development, Query optimization<br>
+• Django, Flask, API<br>
 
 Big Data & Workflow Orchestration:
-• Apache Spark, Apache Airflow
+• Apache Spark, Apache Airflow<br>
 
 Data Infrastructure & Tools:
-• Docker, DDEV, Linux, Bash, SSH
-• AWS Data Analytics Services
+• Docker, DDEV, Linux, Bash, SSH<br>
+• AWS Data Analytics Services<br>
 
 CI/CD & Automation:
-• Git, Jenkins, Playwright
+• Git, Jenkins, Playwright<br>
 
 Agile Methodologies:
-• Waterfall, Scrum, Kanban
+• Waterfall, Scrum, Kanban<br>
 
 <!--<div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="200" width="100" />
