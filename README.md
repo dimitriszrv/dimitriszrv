@@ -6,18 +6,28 @@
 </a> 
 
 ## About me 
-Detail-oriented Data Engineer with a passion for automating processes and building scalable solutions. I specialize in Python, creating efficient ETL workflows and automating tasks with Bash scripting. 
-My strong background in SQL development and query optimization, data warehousing, and reporting with tools such as Jaspersoft and Smartsheet helps organizations unlock valuable insights.
+Detail-oriented Data Engineer with 2+ years of experience in data engineering, 
+passionate about automating processes and building scalable solutions. 
+Specializing in ETL workflows, database management, query optimization, 
+data warehousing, and reporting to help organizations unlock valuable insights.
 
-I am well-versed in Apache Spark for big data processing, and Apache Airflow for orchestrating complex data workflows. My expertise extends to Docker for containerizing applications, enabling seamless deployment across environments.
+Core Skills:
+• Python, ETL Scripting, JavaScript, Typescript
+• SQL development, Query optimization
+• Django, Flask, API
 
-My technical expertise also spans database and server maintenance, along with project development using TYPO3 CMS (PHP, JavaScript, HTML, CSS). 
-Additionally, I am well-versed in automation testing, utilizing tools like Playwright, Jenkins, Git, and TypeScript to ensure high-quality, reliable software delivery.
+Big Data & Workflow Orchestration:
+• Apache Spark, Apache Airflow
 
-To deepen my knowledge of cloud computing and data engineering, I completed the [Data Engineering using AWS Analytics Services](https://www.udemy.com/course/data-engineering-using-aws-analytics-services) 
-course on Udemy, which provided a solid foundation in AWS cloud services for data analytics.
+Data Infrastructure & Tools:
+• Docker, DDEV, Linux, Bash, SSH
+• AWS Data Analytics Services
 
-Currently, I am expanding my skill set in Django and Flask, with a focus on building efficient, scalable web applications.
+CI/CD & Automation:
+• Git, Jenkins, Playwright
+
+Agile Methodologies:
+• Waterfall, Scrum, Kanban
 
 <!--<div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="200" width="100" />
