@@ -12,12 +12,12 @@ Specializing in ETL workflows, database management, query optimization,
 data warehousing, and reporting to help organizations unlock valuable insights.
 
 Core Skills:<br>
-• Python, ETL Scripting, JavaScript, Typescript<br>
+• Python, Scala, ETL Scripting, JavaScript, Typescript<br>
 • SQL development, Query optimization<br>
 • Django, Flask, API<br>
 
 Big Data & Workflow Orchestration:<br>
-• Apache Spark, Apache Airflow<br>
+• Apache Spark, Apache Airflow, Databricks<br>
 
 Data Infrastructure & Tools:<br>
 • Docker, DDEV, Linux, Bash, SSH<br>
